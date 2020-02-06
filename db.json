@@ -1,11 +1,15 @@
 {
-  "StudentNumber": 564873668,
-  "FirstName" : "John",
-  "LastName" : "Mark",
-  "BirthDate" : "18-02-1990",
-  "Grades" : [92, 89, 97],
-  "Teacher": {
-    "Name" : "Peter",
-    "Email" : "peter@gc.ca"
-  }
+  "students": [
+    {
+      "StudentNumber": 564873668,
+      "FirstName" : "John",
+      "LastName" : "Mark",
+      "BirthDate" : "18-02-1990",
+      "Grades" : [92, 89, 97],
+      "Teacher": {
+        "Name" : "Peter",
+        "Email" : "peter@gc.ca"
+      }
+    }
+  ]
 }
