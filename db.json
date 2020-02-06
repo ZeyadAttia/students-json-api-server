@@ -1,7 +1,7 @@
 {
   "students": [
     {
-      "StudentNumber": 564873668,
+      "id": 564873668,
       "FirstName" : "John",
       "LastName" : "Mark",
       "BirthDate" : "18-02-1990",
